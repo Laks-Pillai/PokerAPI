@@ -27,8 +27,7 @@ public class GameController {
 	
 	/**
 	 * A status checker method to see if the webservice up and running. 
-	 * 
-	 * url : /consumption/
+	 *url - game
 	 * @return
 	 */
 	@GetMapping("/")
